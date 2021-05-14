@@ -10,4 +10,4 @@ By running these techniques, we have concluded that:
 
 - Based on the sharpe ratios, the Algorithmic Strategy 1 outperformed both the S&P 500 and the whales portfolios by a huge margin.
 
-![Sharpe_Ratios](/Resources/Sharpe Ratios.png)
+![Sharpe_Ratios](Sharpe Ratios.png)
